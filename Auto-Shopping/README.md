@@ -1,5 +1,5 @@
 # Auto Shop Bot
-Mini project that uses a [python] selenium webdriver to navigate a website to find and add items to the cart.
+Mini project that uses a python selenium webdriver to navigate a website to find and add items to the cart.
 
 Motivation:
 
