@@ -86,8 +86,8 @@ def paymentInfo(cardNum, cardName, expMM, expYY, security):
 def main():
 
     #Input checkout info
-    email = 'testingbotv1@gmail.com'#input("Enter your login Email: ")
-    passWord = 'Test12345!' #input("Enter your login password: ")
+    email = 'testingbot@gmail.com'#input("Enter your login Email: ")
+    passWord = 'Test123' #input("Enter your login password: ")
     cardNum = '1' #input("Enter Card Number: ")
     cardName = '2' #input("Enter Name on card: ")
     expMM = '03' #input("Enter Expiration date MM: ")
