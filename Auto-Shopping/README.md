@@ -12,5 +12,7 @@ Learning how to plan out and design a self-created program was interesting. Inst
 
 Things to do:
 
+**Currently has issues traversing the site as the website has update their webpage**
+
 Improve the code to be more concise, since as I learned more about programming the more I see the mistakes in my first project. 
 
